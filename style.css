@@ -1,0 +1,22 @@
+
+
+header {
+    color: #cea7f6;
+}
+
+.main-box form {
+    border: 1px solid #cea7f6; 
+    border-radius: 10px;        
+    padding: 20px;             
+    background-color: #f8f9fa;  
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+
+.btn-like {
+  border: none;
+  background: none; 
+  padding: 0;       
+}
+
+
